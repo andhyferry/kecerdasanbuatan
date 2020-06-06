@@ -1,0 +1,6 @@
+json
+pickle
+nltk
+numpy 
+keras
+random
