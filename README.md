@@ -1,9 +1,9 @@
-# kecerdasanbuatan
+# Aplikasi chatbot informasi covid-19
 
 # Training data
 
 python train_chatbot.py
 
-#Running App
+# Running App
 
 python chatgui.py
